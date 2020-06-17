@@ -1,0 +1,23 @@
+UnlitGeneric
+{
+	$basetexture "cyber/bar"
+
+	$translucent 1
+	$additive 1
+
+	Proxies
+	{
+		UniformNoise
+		{
+			resultVar "$alpha"
+			minVal 0.9
+			maxVal 1
+		}
+		TextureScroll
+		{
+			texturescrollvar "$baseTextureTransform"
+			texturescrollrate 0.1
+			texturescrollangle 0
+		}
+	}
+}

@@ -1,0 +1,17 @@
+UnlitGeneric
+{
+	$basetexture "cyber/imperial_guard_logo"
+
+	$translucent 1
+	$additive 1
+
+	Proxies
+	{
+		UniformNoise
+		{
+			resultVar "$alpha"
+			minVal 0.7
+			maxVal 1
+		}
+	}
+}

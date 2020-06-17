@@ -1,0 +1,7 @@
+"sample"
+{
+	"base"		"nutscript"
+	"title"		"Sample shit"
+	"author"	"Mobious"
+	"menusystem" "1"
+}

@@ -1,0 +1,17 @@
+UnlitGeneric
+{
+	$basetexture "cyber/scanline"
+
+	$translucent 1
+	$additive 1
+
+	Proxies
+	{
+		TextureScroll
+		{
+			texturescrollvar "$baseTextureTransform"
+			texturescrollrate 0.1
+			texturescrollangle 270
+		}
+	}
+}
