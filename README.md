@@ -21,4 +21,4 @@ Simply make a folder called 'sample' in the gamemodes/ folder with 'nutscript' a
 * ticket
   * GUI for players to let them create support tickets and GUI for admins to see what tickets are stored there
 
-If you have encountered any problem, feel free to dm in discord: mobious#0400 :) 
+**If you have encountered any problem, feel free to dm in discord: mobious#0400 :)**
